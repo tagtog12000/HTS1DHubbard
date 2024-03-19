@@ -9,6 +9,6 @@ desired order.
 
 How to run the code:
 
-Copy all files in the same directory.
-Open the Mathematica file "High temperature series expansion of 1D Hubbard model.nb".
-Execute the code by pressing "Shift+Enter".
+1. Copy all files in the same directory.
+2. Open the Mathematica file "High temperature series expansion of 1D Hubbard model.nb".
+3. Execute the code by pressing "Shift+Enter".
